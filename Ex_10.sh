@@ -1,6 +1,7 @@
 #!/bin/bash
 #Vou ter muito sucesso na programação!
 
+
 dir=$1
 ext=$2
 
