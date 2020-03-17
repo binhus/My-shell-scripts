@@ -1,5 +1,6 @@
 #!/bin/bash
-#Eu sou Tryber e gosto de aprender.
+#Vou ter muito sucesso na programação!
+
 
 dir=$1
 ext=$2
